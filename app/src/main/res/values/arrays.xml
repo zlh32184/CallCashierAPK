@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="pay_mode">
+        <item>银行卡收单(1)</item>
+        <item>聚合扫码支付(2)</item>
+        <item>云闪付(3)</item>
+        <item>预付卡(4)</item>
+        <item>银联二维码(5)</item>
+        <item>支付宝收单行渠道(6)</item>
+        <item>微信收单行渠道(7)</item>
+        <item>QQ钱包收单行渠道(8)</item>
+        <item>龙支付收单行渠道(7)</item>
+        <item>支付宝平台渠道(10)</item>
+        <item>微信平台渠道(11)</item>
+    </string-array>
+    <string-array name="txn_type">
+        <item>消费(101)</item>
+        <item>撤消(102)</item>
+        <item>退款(103)</item>
+        <item>预授权(106)</item>
+        <item>预授权撤消(107)</item>
+        <item>预授权完成(108)</item>
+        <item>预授权完成撤消(109)</item>
+        <item>追加预授权(118)</item>
+        <item>交易查询(104)</item>
+        <item>打印(116)</item>
+        <item>扫码(119)</item>
+    </string-array>
+
+</resources>

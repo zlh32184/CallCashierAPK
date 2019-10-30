@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:F.\Test\CallCashierAPK\cashier_driver_lib\libs\njabc.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cashier_driver_lib/libs/njabc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

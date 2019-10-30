@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:F.\Test\CallCashierAPK\cashier_driver_lib\libs\eptapilibrary-2.0.2d.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cashier_driver_lib/libs/eptapilibrary-2.0.2d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

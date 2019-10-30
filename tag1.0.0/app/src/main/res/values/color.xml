@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#5CACEE</color>
+    <color name="white">#FFFFFF</color>
+    
+    <color name="btn">#00AAEF</color>
+    
+    <!-- 常用颜色 -->
+	<color name="black">#000000</color>
+	<color name="blue">#00AAEF</color>
+	<color name="yh">#D3D3DA</color>
+	<color name="test">#FFB700</color>
+</resources>

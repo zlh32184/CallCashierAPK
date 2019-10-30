@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cancel.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_cancel.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_query.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_bg.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mo_scanner_album.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\mo_scanner_album.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_mo_scanner_main.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\layout\\mo_scanner_main.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_please_scan.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\please_scan.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_progress_style1.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-hdpi\\icon_progress_style1.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mo_scanner_back_img.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\mo_scanner_back_img.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_succinct_progress_content.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\succinct_progress_content.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sale.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_sale.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sacn_view.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\layout\\sacn_view.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\anim_succinct_animation.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\anim\\succinct_animation.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\raw_mo_scanner_beep.ogg.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\raw\\mo_scanner_beep.ogg"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\xml_scan_decoder_setting_preference.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\xml\\scan_decoder_setting_preference.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mo_scanner_light_light.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\mo_scanner_light_light.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\raw_zxbeep.wav.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\raw\\zxbeep.wav"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_refund.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\activity_refund.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_succinct_dialog.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable\\shape_succinct_dialog.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mo_scanner_bg.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\mo_scanner_bg.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_view.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\layout\\content_view.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\raw_scan.gif.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\raw\\scan.gif"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1212c8cdca704cfda91e942713b1d54e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_scan_layout.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\layout\\scan_layout.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "F:\\javaConfig\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\bba278913431f561bda0fe8debdbb79f\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_scan_ray.png.flat",
+        "source": "F:\\Test\\CallCashierAPK\\cashier_driver_lib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\scan_ray.png"
+    },
+    {
+        "merged": "F:\\Test\\CallCashierAPK\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_out.xml.flat",
+        "source": "F:\\Test\\CallCashierAPK\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    }
+]

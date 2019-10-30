@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+     >
+    <RelativeLayout
+        android:id="@+id/RelBack"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#00AAEF" >
+        <ImageButton
+        	android:id="@+id/back_img"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/back" />
+    </RelativeLayout>
+	<Button
+          android:id="@+id/sale"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="100dp"
+		  android:layout_marginLeft="50dp"
+		  android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="消费"
+          android:textColor="#ffffff" />
+	<Button
+          android:id="@+id/refund"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="140dp"
+          android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="退货"
+          android:textColor="#ffffff" />
+	<Button
+          android:id="@+id/cancel"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="180dp"
+          android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="撤销"
+          android:textColor="#ffffff" />
+	<Button
+          android:id="@+id/query"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="220dp"
+          android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="查询"
+          android:textColor="#ffffff" />
+	<Button
+          android:id="@+id/admin"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="260dp"
+          android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="管理"
+          android:textColor="#ffffff" />
+	<Button
+          android:id="@+id/inquiry"
+          android:layout_width="180dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="300dp"
+          android:layout_centerHorizontal="true"
+          android:background="@drawable/button_selector"
+          android:text="余额"
+          android:textColor="#ffffff" />
+	<Button
+		android:id="@+id/settle"
+		android:layout_width="180dp"
+		android:layout_height="40dp"
+		android:layout_marginTop="340dp"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/button_selector"
+		android:text="结账"
+		android:textColor="#ffffff" />
+	<Button
+		android:id="@+id/reprint"
+		android:layout_width="180dp"
+		android:layout_height="40dp"
+		android:layout_marginTop="380dp"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/button_selector"
+		android:text="重打印"
+		android:textColor="#ffffff" />
+	<Button
+		android:id="@+id/inq_all_tran"
+		android:layout_width="180dp"
+		android:layout_height="40dp"
+		android:layout_marginTop="420dp"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/button_selector"
+		android:text="查询明细	"
+		android:textColor="#ffffff" />
+	<Button
+		android:id="@+id/getDevice"
+		android:layout_width="180dp"
+		android:layout_height="40dp"
+		android:layout_marginTop="460dp"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/button_selector"
+		android:text="GetDevice"
+		android:textColor="#ffffff" />
+
+	<Button
+		android:id="@+id/is_scan"
+		android:layout_width="180dp"
+		android:layout_height="40dp"
+		android:layout_marginTop="500dp"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/button_selector"
+		android:text="扫描二维码"
+		android:textColor="#ffffff" />
+
+
+</RelativeLayout>

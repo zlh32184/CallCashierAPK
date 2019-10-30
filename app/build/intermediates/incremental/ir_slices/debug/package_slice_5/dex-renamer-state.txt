@@ -1,0 +1,4 @@
+#Tue Jul 16 11:35:36 CST 2019
+base.0=F\:\\Test\\CallCashierAPK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

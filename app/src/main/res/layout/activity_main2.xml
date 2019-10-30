@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+     >
+     <RelativeLayout
+        android:id="@+id/RelBack"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#00AAEF" >
+        <ImageButton
+        	android:id="@+id/back_img"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/back" />
+      </RelativeLayout>
+
+     <TextView
+        android:id="@+id/info1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/RelBack"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info2"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_marginTop="10dp"
+        android:scrollbars="horizontal"
+        android:layout_below="@+id/info1"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+         android:background="@color/test"
+         />
+     <TextView
+        android:id="@+id/info3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info2"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info3"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info4"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info5"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info6"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info7"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <TextView
+        android:id="@+id/info9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/info8"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+     <Button
+         android:id="@+id/btnRefund"
+         android:layout_width="80dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/info2"
+         android:background="@drawable/button_selector"
+         android:text="退货"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnVoidSale"
+         android:layout_width="80dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/info2"
+         android:layout_toRightOf="@id/btnRefund"
+         android:background="@drawable/button_selector"
+         android:text="撤消"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnQueryTxn"
+         android:layout_width="80dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/info2"
+         android:layout_toRightOf="@id/btnVoidSale"
+         android:background="@drawable/button_selector"
+         android:text="查询"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnVoidAuth"
+         android:layout_width="80dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/info2"
+         android:layout_toRightOf="@id/btnQueryTxn"
+         android:background="@drawable/button_selector"
+         android:text="预撤"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnAddAuth"
+         android:layout_width="100dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/btnRefund"
+         android:background="@drawable/button_selector"
+         android:text="追加授权"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnAuthComp"
+         android:layout_width="100dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/btnVoidSale"
+         android:layout_toRightOf="@id/btnAddAuth"
+         android:background="@drawable/button_selector"
+         android:text="授权完成"
+         android:textColor="#ffffff" />
+     <Button
+         android:id="@+id/btnVoidComp"
+         android:layout_width="100dp"
+         android:layout_height="40dp"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+         android:layout_below="@id/btnQueryTxn"
+         android:layout_toRightOf="@id/btnAuthComp"
+         android:background="@drawable/button_selector"
+         android:text="完成撤消"
+         android:textColor="#ffffff" />
+</RelativeLayout>

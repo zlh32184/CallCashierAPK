@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sssoft.drivers.pos.service"
+    android:versionCode="6"
+    android:versionName="4.3" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="10" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.MANAGE_NEWLAND" />
+    <uses-permission android:name="android.permission.MANAGE_NEWLANDUART3" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+    <uses-permission android:name="android.permission.MANAGE_ANALOG_SERIAL" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.premission.ACCESS_FRONT_CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    
+    <uses-permission android:name="smartpos.deviceservice.permission.Pinpad" />
+	<!-- 使用磁条读卡器设备功能的权限 -->
+	<uses-permission android:name="smartpos.deviceservice.permission.MagReader" />
+	<!-- 使用IC卡读卡器设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.ICReader" />
+	<!-- 使用非接触IC卡读卡器设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.RFReader" />
+	<!-- 使用打印机设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.Printer" />
+	<!-- 调用PBOC金融交互流程功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.PBOC" />
+	<!-- 使用条码扫描设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.Scanner" />
+	<!-- 使用蜂鸣器设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.Beeper" />
+	<!-- 调用获取终端设备信息的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.DeviceInfo" />
+	<!-- 使用串口设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.SerialPort" />
+	<!-- 使用LED灯设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.Led" />
+	<!-- 使用PSAM卡读卡器设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.PsamCardReader" />
+	<!-- 使用二代证设备读卡功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.IDCardReader" />
+	<!-- 使用钱箱设备功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.CashBox" />
+	<!-- 使用参数文件功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.ParamFile" />
+	<!-- 使用签字板功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.SignPanel" />
+	<!-- 使用底座功能的权限  -->
+	<uses-permission android:name="smartpos.deviceservice.permission.Pedestal" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sssoft.drivers.pos.service.view.ScanViewActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.landicorp.android.scan.scanDecoder.CaptureActivity"
+            android:label="scan Decoder"
+            android:configChanges="orientation|keyboardHidden" />
+    </application>
+
+</manifest>
